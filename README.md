@@ -57,49 +57,6 @@ With subtle references to creativity, nature, and tech exploration.
 
 <!--
 ==================================================
-   2) PROJECTS SECTION
-==================================================
-
-## **Projects**
-
-Below is a selection of some **highlighted projects**. Feel free to explore!
-
-| **Project**                                                                 | **Description**                                                             | **Live/Repo Link**                                      |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------|
-| **[Modern Portfolio](https://github.com/tomas-oliveira/portfolio)**         | A cutting-edge, responsive personal website built with React & animations. | [View on GitHub](https://github.com/tomas-oliveira/portfolio) |
-| **[Real-Time Chat App](https://github.com/tomas-oliveira/chat-realtime)**   | A chat platform using Node.js, Socket.io, and Vue for scalable performance. | [View on GitHub](https://github.com/tomas-oliveira/chat-realtime) |
-| **[Data Analysis with Python](https://github.com/tomas-oliveira/data-analysis-python)** | Scripts for data exploration, visualization, and statistics using Pandas & Matplotlib. | [View on GitHub](https://github.com/tomas-oliveira/data-analysis-python) |
-
-<!-- Additional fancy stats / interactive badges -->
-<div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tomas-oliveira&show_icons=true&theme=react"
-    alt="Tomás's GitHub Stats" 
-    height="170"
-    style="margin-right: 10px;"
-  />
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-oliveira&layout=compact&theme=react"
-    alt="Tomás's Top Languages" 
-    height="170"
-  />
-</div>
-
-<!-- GitHub Trophies for extra uniqueness -->
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=tomas-oliveira&theme=onedark&no-frame=true&row=1&column=7"
-    alt="GitHub Trophies" 
-  />
-</div>
-
----
--->
-<!--
-==================================================
    3) ABOUT ME SECTION
 ==================================================
 -->
