@@ -28,7 +28,7 @@ With subtle references to creativity, nature, and tech exploration.
   <!-- Quick badges row (visitors, stars, etc.) -->
   <p>
     <img 
-      src="https://visitor-badge.laobi.icu/badge?page_id=tomasoliveirz.visitor-badge" 
+      src="https://visitor-badge.laobi.icu/badge?page_id=tomas-oliveira.visitor-badge" 
       alt="Visitors"
     />
     <img 
