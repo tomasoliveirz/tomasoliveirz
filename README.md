@@ -28,11 +28,11 @@ With subtle references to creativity, nature, and tech exploration.
   <!-- Quick badges row (visitors, stars, etc.) -->
   <p>
     <img 
-      src="https://visitor-badge.laobi.icu/badge?page_id=tomas-oliveira.visitor-badge" 
+      src="https://visitor-badge.laobi.icu/badge?page_id=tomasoliveirz.visitor-badge" 
       alt="Visitors"
     />
     <img 
-      src="https://img.shields.io/github/followers/tomas-oliveira?label=Follow&style=social" 
+      src="https://img.shields.io/github/followers/tomasoliveirz?label=Follow&style=social" 
       alt="GitHub Followers"
     />
   </p>
@@ -135,7 +135,7 @@ I also enjoy discovering how data and algorithms can open new doors, applying **
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/tomas-oliveira" target="_blank">
+  <a href="https://github.com/tomasoliveirz" target="_blank">
     <img 
       src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub"
