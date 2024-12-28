@@ -2,7 +2,7 @@
 ========================================================================
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 README PROFILE - Tomás Oliveira
-In English, with unique elements & extra spice!
+With subtle references to creativity, nature, and tech exploration.
 ========================================================================
 -->
 
@@ -49,9 +49,9 @@ In English, with unique elements & extra spice!
 ## **Home** 
 
 **Name:** Tomás Oliveira  
-**Title:** Software Developer | Computer Engineering Student
+**Title:** Software Developer | Informatics and Computer Engineering Student
 
-> Welcome to my GitHub profile! I am a passionate developer focused on creating innovative solutions, exploring new technologies, and continually improving my skills.
+> Welcome to my GitHub profile! I’m a developer who believes in blending practicality with a spark of creativity—constantly exploring new ways to push boundaries in tech.
 
 ---
 
@@ -105,16 +105,16 @@ Below is a selection of some **highlighted projects**. Feel free to explore!
 -->
 ## **About Me**
 
-Hello! I’m **Tomás Oliveira**, a **Software Developer** and **Computer Engineering Student**. My passion lies in bridging technology and creativity, aiming to deliver high-performance, scalable, and elegant solutions. 
+Hello! I’m **Tomás Oliveira**, a **Software Developer** and **Informatics and Computer Engineering Student**. I have a penchant for delving into the hidden possibilities of code, hardware, and subtle inspirations taken from the world around us. My goal? To craft solutions that balance **performance**, **scalability**, and a bit of visionary flair.
 
 **Core Skills & Experience**  
-- **Back-End**: Node.js, Python, Java, C++  
-- **Front-End**: React, Vue, HTML5, CSS3, JavaScript/TypeScript  
-- **Databases**: MySQL, MongoDB  
-- **DevOps**: Docker, Git, CI/CD  
-- **Agile Methods**: SCRUM, Kanban  
+- **Back-End**: C, Python, Java, C++  
+- **Front-End**: HTML5, CSS3, JavaScript/TypeScript  
+- **Databases**: MySQL, PostgreSQL 
+- **DevOps**: Docker, Git
+- **Agile Methods**: SCRUM  
 
-I’m also fascinated by **Machine Learning** and **Big Data**, where I apply data analysis techniques to personal projects.
+I also enjoy discovering how data and algorithms can open new doors, applying **Machine Learning** and **Big Data** techniques to side projects when inspiration strikes.
 
 <!-- Badges representing technologies (using skillicons.dev) -->
 <p align="center">
@@ -122,7 +122,7 @@ I’m also fascinated by **Machine Learning** and **Big Data**, where I apply da
 </p>
 
 ### **Fun Fact**
-> I love exploring new frameworks, tools, and libraries—sometimes just to satisfy my curiosity about how things work under the hood!
+> Sometimes, I find sparks of inspiration in unexpected places—combining curiosity, careful experimentation, and a bit of daydreaming to bring ideas to life.
 
 ---
 
@@ -196,9 +196,9 @@ I’m also fascinated by **Machine Learning** and **Big Data**, where I apply da
 -->
 ## **What's Next?**
 
-- **Exploring**: Cloud computing (AWS, Azure), advanced CI/CD pipelines, and microservices.  
-- **Learning**: Deepen my knowledge in Data Science & ML frameworks (TensorFlow, PyTorch).  
-- **Contributing**: Open-source projects that focus on community, education, and sustainability.
+- **Exploring**: Cutting-edge cloud and microservices, alongside niche hardware to craft personalized solutions.  
+- **Learning**: Advanced ML frameworks and novel methodologies that expand what’s possible in software + hardware.  
+- **Contributing**: Open-source projects that cultivate community, drive discovery, and inspire sustainable progress.
 
 ---
 
