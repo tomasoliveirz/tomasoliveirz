@@ -59,7 +59,7 @@ With subtle references to creativity, nature, and tech exploration.
 ==================================================
    2) PROJECTS SECTION
 ==================================================
--->
+
 ## **Projects**
 
 Below is a selection of some **highlighted projects**. Feel free to explore!
@@ -97,7 +97,7 @@ Below is a selection of some **highlighted projects**. Feel free to explore!
 </div>
 
 ---
-
+-->
 <!--
 ==================================================
    3) ABOUT ME SECTION
