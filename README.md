@@ -2,175 +2,109 @@
 ========================================================================
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 README PROFILE - Tomás Oliveira
-With subtle references to creativity, nature, and tech exploration.
+A vibrant blend of creativity, tech mastery, and soul.
 ========================================================================
 -->
 
-<!--
-==================================================
-   HEADER - Animated Banner
-==================================================
--->
 <div align="center">
-  
-  <!-- Animated Typing Title (Typing SVG) -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&width=600&lines=Hi%2C+I'm+Tom%C3%A1s+Oliveira!;Software+Developer+%7C+Eng.+Student;Passionate+about+Innovation+%26+Tech"
-    alt="Typing SVG"
-  />
-  
-  <!-- Interactive Wave Top (Capsule Render) -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=1E90FF"
-    alt="header wave"
-  />
+  <!-- Animated Gradient Text Title -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&width=700&lines=Hey+there!+I%27m+Tom%C3%A1s+Oliveira;Crafting+Code+with+Passion+%26+Purpose" alt="typing header" />
+  </h1>
 
-  <!-- Quick badges row (visitors, stars, etc.) -->
+  <!-- Animated Lottie Wave Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=1E90FF&fontColor=FFFFFF" alt="header wave" />
+
+  <!-- GitHub Stats Cards -->
   <p>
-    <img 
-      src="https://visitor-badge.laobi.icu/badge?page_id=tomas-oliveira.visitor-badge" 
-      alt="Visitors"
-    />
-    <img 
-      src="https://img.shields.io/github/followers/tomasoliveirz?label=Follow&style=social" 
-      alt="GitHub Followers"
-    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasoliveirz&show_icons=true&theme=tokyonight" alt="Tomás's GitHub stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasoliveirz&theme=tokyonight" alt="Streak stats" />
   </p>
-  
+
+  <!-- Socials Animated Badges -->
+  <p>
+    <a href="https://tomasoliveirz.github.io" target="_blank"><img src="https://img.shields.io/badge/🌐-Portfolio-1E90FF?style=for-the-badge&logo=googlesitekit" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/tom%C3%A1s-oliveira-52966422b" target="_blank"><img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/tomasoliveirz" target="_blank"><img src="https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
+    <a href="mailto:tomasferreiradeoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-<!--
-==================================================
-   1) HOME SECTION
-==================================================
--->
-## **Home** 
+## 🔍 About Me
 
-**Name:** Tomás Oliveira  
-**Title:** Software Developer | Informatics and Computer Engineering Student
+I’m **Tomás Oliveira**, a **Software Developer** & **Informatics and Computer Engineering Student** at the University of Porto. I blend **clean code**, **smart architecture**, and a dash of **visionary flair** to deliver digital experiences that matter.
 
-> Welcome to my GitHub profile! I’m a developer who believes in blending practicality with a spark of creativity—constantly exploring new ways to push boundaries in tech.
+- 🎯 **Focus Areas:** Cybersecurity, Human-Centered Design, System Optimization
+- ⚙️ **Tech Stack:** C | C++ | Python | Java | JavaScript/TypeScript | Flutter | Docker | PostgreSQL
+- 🛠️ **Tools & Frameworks:** Git | React | Vue | SASS | Node.js | Godot Engine | FL Studio
+- 🌱 **Always Exploring:** Cloud Microservices | Advanced ML | Embedded Systems
+
+> “Innovation happens at the intersection of curiosity and persistence.”
 
 ---
 
-<!--
-==================================================
-   3) ABOUT ME SECTION
-==================================================
--->
-## **About Me**
+## 💡 Creative Highlights
 
-Hello! I’m **Tomás Oliveira**, a **Software Developer** and **Informatics and Computer Engineering Student**. I have a penchant for delving into the hidden possibilities of code, hardware, and subtle inspirations taken from the world around us. My goal? To craft solutions that balance **performance**, **scalability**, and a bit of visionary flair.
+<details>
+  <summary>🎸 Music & Beats</summary>
+  - Guitarist: Acoustic, Electric & Classical
+  - FL Studio Producer: Lo-fi, RnB & Trap beats
+</details>
+<details>
+  <summary>🐦 Avian Companions</summary>
+  - Caturra & Kakariki enthusiast: Studying behaviors & enrichment
+</details>
+<details>
+  <summary>🎮 Game Dev</summary>
+  - 2D & 3D projects in C++ (SDL2) & Godot Engine
+</details>
 
-**Core Skills & Experience**  
-- **Back-End**: C, Python, Java, C++  
-- **Front-End**: HTML5, CSS3, JavaScript/TypeScript  
-- **Databases**: MySQL, PostgreSQL 
-- **DevOps**: Docker, Git
-- **Agile Methods**: SCRUM  
+---
 
-I also enjoy discovering how data and algorithms can open new doors, applying **Machine Learning** and **Big Data** techniques to side projects when inspiration strikes.
+## 🚀 Projects & Spotlight
 
-<!-- Badges representing technologies (using skillicons.dev) -->
+<!-- Featured project card -->
+<div align="center">
+  <a href="https://github.com/tomasoliveirz/SanthyagoApp" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rectangle&color=1E90FF&height=120&section=footer&text=Santyago+App&fontColor=FFFFFF&fontSize=22" alt="Santyago App" />
+  </a>
+</div>
+
+Explore more on my [GitHub Projects](https://github.com/tomasoliveirz?tab=repositories).
+
+---
+
+## ✨ Skills & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,react,vue,html,css,js,ts,mongodb,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,nodejs,flutter,react,docker,postgres,git,vscode" />
 </p>
 
-### **Fun Fact**
-> Sometimes, I find sparks of inspiration in unexpected places—combining curiosity, careful experimentation, and a bit of daydreaming to bring ideas to life.
+---
+
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tomasoliveirz&theme=react-dark&hide_border=true)
 
 ---
 
-<!--
-==================================================
-   4) CONTACT SECTION
-==================================================
--->
-## **Contact**
+## 📫 Let’s Connect
 
-> Do not hesitate to **reach out** or follow me on social media:
+Feel free to message me for collaborations, questions, or to say hi! 🤝
 
 <div align="center">
-  
-  <!-- Portfolio -->
-  <a href="https://tomasoliveirz.github.io" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Portfolio-%231E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-oliveira-52966422b/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <!-- Twitter -->
-  <a href="https://twitter.com/tomasoliveirz" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/tomasoliveirz" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:tomasferreiradeoliveira@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    />
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/tomasoliveirz" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-    />
-  </a>
-
+  <a href="https://linkedin.com/in/tom%C3%A1s-oliveira-52966422b"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/tomasoliveirz"><img src="https://img.shields.io/badge/Follow-Twitter-lightgrey?style=flat-square&logo=twitter" alt="Twitter" /></a>
+  <a href="https://instagram.com/tomasoliveirz"><img src="https://img.shields.io/badge/Insta-Instagram-pink?style=flat-square&logo=instagram" alt="Instagram" /></a>
+  <a href="mailto:tomasferreiradeoliveira@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail" alt="Email" /></a>
 </div>
 
 ---
 
-<!--
-==================================================
-   EXTRA UNIQUE SECTION - e.g., "What's Next?"
-==================================================
--->
-## **What's Next?**
-
-- **Exploring**: Cutting-edge cloud and microservices, alongside niche hardware to craft personalized solutions.  
-- **Learning**: Advanced ML frameworks and novel methodologies that expand what’s possible in software + hardware.  
-- **Contributing**: Open-source projects that cultivate community, drive discovery, and inspire sustainable progress.
-
----
-
-<!--
-==================================================
-   FOOTER
-==================================================
--->
-<div align="center">
-  
-  <!-- Wave Footer (Capsule Render) -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=1E90FF"
-    alt="footer wave"
-  />
-
-  *Thank you for visiting!*
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=1E90FF&fontColor=FFFFFF" alt="footer wave" />
+  <br>
+  *Crafted with 💙 by Tomás Oliveira*
+</p>
