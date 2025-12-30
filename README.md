@@ -4,7 +4,7 @@
 
 [Website](https://tomasoliveira.xyz) · [Email](mailto:tomasferreiradeoliveira@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,python,cpp,dotnet,spring,react,nextjs,nodejs,postgres,redis,prisma,docker,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,python,cpp,dotnet,spring,react,nextjs,nodejs,postgres,redis,prisma,docker,linux,git,flutter,dart,supabase)](https://skillicons.dev)
 
 ![Metrics](https://metrics.lecoq.io/tomasoliveirz)
 
@@ -64,6 +64,7 @@ Visualize your social circle and manage your Instagram connections.
 
 - **Stack:** Chrome Extension, JavaScript, Visualization
 - **Available in the Chrome Web Store:** https://chromewebstore.google.com/detail/orbit-social-circle-visua/moclhlflhkomlechhdbcjedjlpocgppg?authuser=8&hl=en
+- **Repositories:** [Website](https://github.com/tomasoliveirz/orbit-tools-website) · [Extension](https://github.com/tomasoliveirz/social-circle-extension)
 
 ---
 
