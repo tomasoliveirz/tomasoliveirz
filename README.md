@@ -64,7 +64,16 @@ Visualize your social circle and manage your Instagram connections.
 
 - **Stack:** Chrome Extension, JavaScript, Visualization
 - **Available in the Chrome Web Store:** https://chromewebstore.google.com/detail/orbit-social-circle-visua/moclhlflhkomlechhdbcjedjlpocgppg?authuser=8&hl=en
+- **Website:** https://orbittools.space
 - **Repositories:** [Website](https://github.com/tomasoliveirz/orbit-tools-website) · [Extension](https://github.com/tomasoliveirz/social-circle-extension)
+
+### Santhyago Gallery
+> **React • Tailwind CSS • Nginx**
+>
+> Digital signage and gallery application for Hotel Santhyago's smart TVs and reception.
+>
+> - **Live Deployment:** https://gallery.santhyago.com
+> - **Repository:** [santhyago-gallery](https://github.com/tomasoliveirz/santhyago-gallery)
 
 ---
 
