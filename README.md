@@ -1,95 +1,79 @@
-<div align="center"> 
+<div align="center">
 
 ![Tomas Oliveira](assets/tomas_animated_banner.svg)
 
-[Website](https://tomasoliveira.xyz) · [Email](mailto:tomasferreiradeoliveira@gmail.com)
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,python,cpp,dotnet,spring,react,nextjs,nodejs,postgres,redis,prisma,docker,linux,git,flutter,dart,supabase)](https://skillicons.dev)
-
-![Metrics](https://metrics.lecoq.io/tomasoliveirz)
+[Website](https://tomasoliveira.xyz) · [Email](mailto:tomasferreiradeoliveira@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tomas-ferreira-de-oliveira)
 
 </div>
 
 ---
 
-## About
-I build practical software that holds up in real environments: internal tools, dashboards, kiosks, and web apps with actual users.
-I care about clean architecture, boring reliability, and documentation that doesn’t waste anyone’s time.
+## Hey, I'm Tomás.
 
-I’m a polyglot by necessity — I’ll pick the right tool for the job and keep it maintainable:
-from TypeScript/Node systems, to C#/.NET and Java/Spring, to lower-level C/C++ work, and the occasional game-dev side project.
+I'm a software engineer based in Portugal, currently working as a **Junior Blockchain Backend Engineer**.
+
+I mostly work around backend systems, blockchain infrastructure, developer tooling, and TypeScript-heavy codebases. I care about writing software that is understandable, maintainable, and reliable enough to survive outside of a demo.
+
+I like systems that are boring in the right places: clear APIs, predictable behaviour, good tests, readable code, and documentation that actually helps the next person.
 
 ---
 
-## Education
-**BSc in Informatics and Computing Engineering (L.EIC)** — Faculty of Engineering, University of Porto (FEUP)  
+## What I work with
+
+**Main stack:**  
+TypeScript, Node.js, PostgreSQL, Prisma, Docker, Linux, Git
+
+**Also comfortable with:**  
+React, Next.js, Java, C#, Python, C/C++, .NET, Spring
+
+**Recently focused on:**  
+backend engineering, blockchain-related systems, testing, migrations, ESM/TypeScript tooling, CI, dependency maintenance, and codebase modernization.
+
+---
+
+## Selected work
+
+### Launchpad — Smart Contract Generator  
+**BSc Integration Project @ FEUP · MoOngy S.A.**  
+C#/.NET · React · Solidity · Scriban
+
+A no-code platform for generating configurable ERC-20 smart contracts, focused on secure templates, validation, and code generation.
+
+Final grade: **18/20**  
+Repository: [Launchpad_Gen-Public](https://github.com/tomasoliveirz/Launchpad_Gen-Public)
+
+---
+
+### Hotel Santhyago Operations Platform  
+React · Node.js · Prisma · SQL
+
+A real-world internal system built to support hotel operations, including breakfast workflows, staff-facing dashboards, stock-related flows, and operational tooling.
+
+Repository: [santhyago-breakfast-web](https://github.com/tomasoliveirz/santhyago-breakfast-web)
+
+---
+
+## Background
+
+**BSc in Informatics and Computing Engineering**  
+Faculty of Engineering, University of Porto — FEUP  
 2022 — 2025
 
----
+Before working professionally in backend/blockchain, I spent a lot of time building practical software for real users: internal tools, dashboards, web apps, small experiments, and systems for family businesses.
 
-## Main Projects
-
-### Launchpad — Automated Smart Contract Generator (BSc Integration Project @ FEUP · MoOngy S.A.)
-> **C#/.NET • React • Solidity • Scriban**
->
-> A professional-grade engine that generates secure, optimized, configurable **ERC-20** smart contracts from a **no-code** web interface.
->
-> - **Final grade:** 18/20
-> - **Highlights:** Hybrid code generation, validation engine, OpenZeppelin integration.
-> - **Repository:** [Launchpad_Gen-Public](https://github.com/tomasoliveirz/Launchpad_Gen-Public)
-
-### Hotel Santhyago — Staff & Breakfast Operations System
-> **React • Node.js • Prisma • SQLite**
->
-> Internal system used daily for breakfast operations, guest flows, and stock control.
->
-> - **Repository:** [santhyago-breakfast-web](https://github.com/tomasoliveirz/santhyago-breakfast-web)
-
-### PomoPomo
-> **Next.js • Socket.io • PostgreSQL • Redis**
->
-> A real-time collaborative Pomodoro app with synced sessions and tasks.
->
-> - **Live App:** [pomopomo.site](https://pomopomo.site)
-> - **Repository:** [pomopomo](https://github.com/tomasoliveirz/pomopomo)
-
-### AquaHub (DigiWater)
-> **Flutter • Dart • Supabase**
->
-> A comprehensive water quality monitoring application.
->
-> - **Google Play:** [Download](https://play.google.com/store/apps/details?id=com.company.digiwater&pli=1)
-
-### Orbit Tools
-> **Chrome Extension • JavaScript • Visualization**
->
-> Visualize your social circle and manage your Instagram connections.
->
-> - **Chrome Web Store:** [Download](https://chromewebstore.google.com/detail/orbit-social-circle-visua/moclhlflhkomlechhdbcjedjlpocgppg?authuser=8&hl=en)
-> - **Website:** [orbittools.space](https://orbittools.space)
-> - **Repositories:** [Website](https://github.com/tomasoliveirz/orbit-tools-website) · [Extension](https://github.com/tomasoliveirz/social-circle-extension)
-
-### Santhyago Gallery
-> **React • Tailwind CSS • Nginx**
->
-> Digital signage and gallery application for Hotel Santhyago's smart TVs and reception.
->
-> - **Live Deployment:** [gallery.santhyago.com](https://gallery.santhyago.com)
-> - **Repository:** [santhyago-gallery](https://github.com/tomasoliveirz/santhyago-gallery)
+That shaped the way I like to work: start simple, understand the actual problem, keep the codebase readable, and avoid unnecessary cleverness.
 
 ---
 
-## What I work with (and actually ship with)
-- **Languages:** TypeScript/JavaScript, Java, C#, Python, C/C++
-- **Backend:** Node.js, .NET, Spring (experience)
-- **Web:** React, Next.js
-- **Data:** PostgreSQL, Redis, Prisma, SQLite
-- **Ops:** Docker, Linux, Nginx
-- **Game dev (personal projects):** Godot, SDL2
-- **Studied (CS foundations):** Haskell, Prolog
+## Outside of work
+
+I’m usually exploring some mix of software, music, cybersecurity, aquariums, game development, writing, or video ideas.
+
+I like learning by building things, breaking them, documenting the process, and slowly making them less bad.
 
 ---
 
 ## Contact
-- Website: https://tomasoliveira.xyz  
-- Email: tomasferreiradeoliveira@gmail.com
+
+Website: [tomasoliveira.xyz](https://tomasoliveira.xyz)  
+Email: [tomasferreiradeoliveira@gmail.com](mailto:tomasferreiradeoliveira@gmail.com)
